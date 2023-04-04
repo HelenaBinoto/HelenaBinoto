@@ -1,8 +1,8 @@
 ```function overHereStranger() { var x = "welcome!"; console.log(x); }```
 
 #### about me
-- [x] uma linguista se aventurando em novas linguagens ~~de programação~~
-- [x] a linguist learning and searching for new ~~programming~~ languages
+- [x] uma linguista se aventurando em novas linguagens de programação
+- [x] a linguist learning and searching for new programming  languages
 
 #### studying
 - [x] análise e desenvolvimento de sistemas 
