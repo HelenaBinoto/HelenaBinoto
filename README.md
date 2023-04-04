@@ -1,4 +1,4 @@
-```function Over here, stranger() { var x = "Welcome!"; console.log(x); }```
+```function overHereStranger() { var x = "welcome!"; console.log(x); }```
 
 #### about me
 - [x] uma linguista se aventurando em novas linguagens ~~de programação~~
@@ -8,7 +8,7 @@
 - [x] análise e desenvolvimento de sistemas 
 - [x] information technology
 
-``` languages ``` 
+``` technologies ``` 
 html, css, javascript, reactjs
 
 ``` contact ```
