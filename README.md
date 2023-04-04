@@ -1,4 +1,18 @@
-### Hi there 👋
+```function Over here, stranger() { var x = "Welcome!"; console.log(x); }```
+
+#### about me
+- [x] uma linguista se aventurando em novas linguagens ~~de programação~~
+- [x] a linguist learning and searching for new ~~programming~~ languages
+
+#### studying
+- [x] análise e desenvolvimento de sistemas 
+- [x] information technology
+
+``` languages ``` 
+html, css, javascript, reactjs
+
+``` contact ```
+[linkedin](https://www.linkedin.com/in/helena-binoto/)
 
 <!--
 **HelenaBinoto/HelenaBinoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
